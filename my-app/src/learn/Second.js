@@ -9,7 +9,7 @@ export default function Second(){
     return (
         <div>
         <h1>Welcome to my app</h1>
-        <Button />
+        {/* <Button /> */}
       </div>
     )
 }
