@@ -10,7 +10,6 @@ export default function myName(){
         <div id='pl'>Click below to know about you.</div>
         <br></br>
         <Button/>
-        
         </>
     )
 }
