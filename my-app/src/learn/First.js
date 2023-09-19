@@ -14,7 +14,7 @@ export default function First(){
         <>
       {/* <div>First</div> */}
       {/* <Button/> */}
-      {<photo/>}
+      <photo/>
 
         </>
     )
